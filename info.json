@@ -1,0 +1,11 @@
+{
+    "me": "We Dem Beez",
+    "roster": {
+        "size": 16,
+        "qb": 1, 
+        "rb": 2,
+        "wr": 2,
+        "te": 1,
+        "flex": 1
+    }
+}

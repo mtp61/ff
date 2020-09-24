@@ -1,0 +1,5 @@
+\alpha is start weight
+x is min value increase for me
+y is min value increase for other team
+
+for trades to be legal need to improve my total value by (\alpha*start change + bench change) >= x, the other teams total value by (\alpha*start change + bench change) >= y, 

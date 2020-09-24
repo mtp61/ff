@@ -1,0 +1,1107 @@
+
+Major In Economics
+(2-0-0)
+SLOT
+PLAYER
+ACQ
+QB
+Josh AllenJosh Allen
+Josh Allen
+Buf
+QB
+Draft
+RB
+Alvin KamaraAlvin Kamara
+Alvin Kamara
+NO
+RB
+Draft
+RB
+Josh JacobsJosh Jacobs
+Josh Jacobs
+Q
+LV
+RB
+Draft
+WR
+DJ MooreDJ Moore
+DJ Moore
+Car
+WR
+Draft
+WR
+Tyler LockettTyler Lockett
+Tyler Lockett
+Sea
+WR
+Draft
+TE
+T.J. HockensonT.J. Hockenson
+T.J. Hockenson
+Det
+TE
+Draft
+FLEX
+Stefon DiggsStefon Diggs
+Stefon Diggs
+Buf
+WR
+Draft
+D/ST
+Vikings D/STVikings D/ST
+Vikings D/ST
+Min
+D/ST
+Draft
+K
+Zane GonzalezZane Gonzalez
+Zane Gonzalez
+Ari
+K
+Draft
+Bench
+Le'Veon BellLe'Veon Bell
+Le'Veon Bell
+IR
+NYJ
+RB
+Draft
+Bench
+DJ Chark Jr.DJ Chark Jr.
+DJ Chark Jr.
+Q
+Jax
+WR
+Draft
+Bench
+Evan EngramEvan Engram
+Evan Engram
+NYG
+TE
+Draft
+Bench
+Tyler BoydTyler Boyd
+Tyler Boyd
+Cin
+WR
+Draft
+Bench
+Jordan HowardJordan Howard
+Jordan Howard
+Mia
+RB
+Draft
+Bench
+Henry Ruggs IIIHenry Ruggs III
+Henry Ruggs III
+LV
+WR
+Draft
+Bench
+Mike DavisMike Davis
+Mike Davis
+Car
+RB
+Free Agency
+IR
+
+Empty
+View Team
+Propose Trade
+
+Narragansett Seabears
+(2-0-0)
+SLOT
+PLAYER
+ACQ
+QB
+Russell WilsonRussell Wilson
+Russell Wilson
+Sea
+QB
+Draft
+RB
+Dalvin CookDalvin Cook
+Dalvin Cook
+Min
+RB
+Draft
+RB
+Nick ChubbNick Chubb
+Nick Chubb
+Cle
+RB
+Draft
+WR
+Adam ThielenAdam Thielen
+Adam Thielen
+Min
+WR
+Draft
+WR
+Julian EdelmanJulian Edelman
+Julian Edelman
+Q
+NE
+WR
+Draft
+TE
+Jared CookJared Cook
+Jared Cook
+NO
+TE
+Draft
+FLEX
+Keenan AllenKeenan Allen
+Keenan Allen
+LAC
+WR
+Draft
+D/ST
+Bills D/STBills D/ST
+Bills D/ST
+Buf
+D/ST
+Draft
+K
+Harrison ButkerHarrison Butker
+Harrison Butker
+KC
+K
+Draft
+Bench
+A.J. BrownA.J. Brown
+A.J. Brown
+Q
+Ten
+WR
+Draft
+Bench
+Mark Ingram IIMark Ingram II
+Mark Ingram II
+Bal
+RB
+Draft
+Bench
+Jamison CrowderJamison Crowder
+Jamison Crowder
+D
+NYJ
+WR
+Draft
+Bench
+Zack MossZack Moss
+Zack Moss
+Q
+Buf
+RB
+Draft
+Bench
+Curtis SamuelCurtis Samuel
+Curtis Samuel
+Car
+WR
+Draft
+Bench
+Chase EdmondsChase Edmonds
+Chase Edmonds
+Ari
+RB
+Draft
+Bench
+Nyheim HinesNyheim Hines
+Nyheim Hines
+Ind
+RB
+Free Agency
+IR
+
+Empty
+View Team
+Propose Trade
+
+Suzie Snoozies
+(2-0-0)
+SLOT
+PLAYER
+ACQ
+QB
+Dak PrescottDak Prescott
+Dak Prescott
+Dal
+QB
+Draft
+RB
+Austin EkelerAustin Ekeler
+Austin Ekeler
+LAC
+RB
+Draft
+RB
+David JohnsonDavid Johnson
+David Johnson
+Hou
+RB
+Draft
+WR
+DeAndre HopkinsDeAndre Hopkins
+DeAndre Hopkins
+Ari
+WR
+Draft
+WR
+Marquise BrownMarquise Brown
+Marquise Brown
+Bal
+WR
+Draft
+TE
+Zach ErtzZach Ertz
+Zach Ertz
+Phi
+TE
+Draft
+FLEX
+Jarvis LandryJarvis Landry
+Jarvis Landry
+Cle
+WR
+Draft
+D/ST
+Browns D/STBrowns D/ST
+Browns D/ST
+Cle
+D/ST
+Free Agency
+K
+Wil LutzWil Lutz
+Wil Lutz
+NO
+K
+Draft
+Bench
+Carson WentzCarson Wentz
+Carson Wentz
+Phi
+QB
+Draft
+Bench
+Jerry JeudyJerry Jeudy
+Jerry Jeudy
+Q
+Den
+WR
+Draft
+Bench
+Tevin ColemanTevin Coleman
+Tevin Coleman
+D
+SF
+RB
+Draft
+Bench
+Justin JeffersonJustin Jefferson
+Justin Jefferson
+Min
+WR
+Draft
+Bench
+Dallas GoedertDallas Goedert
+Dallas Goedert
+Phi
+TE
+Free Agency
+Bench
+Parris CampbellParris Campbell
+Parris Campbell
+IR
+Ind
+WR
+Free Agency
+Bench
+Mike GesickiMike Gesicki
+Mike Gesicki
+Mia
+TE
+Free Agency
+IR
+Christian McCaffreyChristian McCaffrey
+Christian McCaffrey
+IR
+Car
+RB
+Draft
+View Team
+Propose Trade
+
+We Dem Beez
+(2-0-0)
+SLOT
+PLAYER
+ACQ
+QB
+Kyler MurrayKyler Murray
+Kyler Murray
+Ari
+QB
+Draft
+RB
+Clyde Edwards-HelaireClyde Edwards-Helaire
+Clyde Edwards-Helaire
+KC
+RB
+Draft
+RB
+Kenyan DrakeKenyan Drake
+Kenyan Drake
+Ari
+RB
+Draft
+WR
+Amari CooperAmari Cooper
+Amari Cooper
+Dal
+WR
+Draft
+WR
+Marvin Jones Jr.Marvin Jones Jr.
+Marvin Jones Jr.
+Det
+WR
+Draft
+TE
+George KittleGeorge Kittle
+George Kittle
+Q
+SF
+TE
+Draft
+FLEX
+Melvin Gordon IIIMelvin Gordon III
+Melvin Gordon III
+Den
+RB
+Draft
+D/ST
+Saints D/STSaints D/ST
+Saints D/ST
+NO
+D/ST
+Draft
+K
+Greg ZuerleinGreg Zuerlein
+Greg Zuerlein
+Dal
+K
+Draft
+Bench
+Courtland SuttonCourtland Sutton
+Courtland Sutton
+IR
+Den
+WR
+Draft
+Bench
+Antonio GibsonAntonio Gibson
+Antonio Gibson
+Wsh
+RB
+Draft
+Bench
+CeeDee LambCeeDee Lamb
+CeeDee Lamb
+Dal
+WR
+Draft
+Bench
+Darius SlaytonDarius Slayton
+Darius Slayton
+NYG
+WR
+Draft
+Bench
+DeSean JacksonDeSean Jackson
+DeSean Jackson
+Phi
+WR
+Draft
+Bench
+N'Keal HarryN'Keal Harry
+N'Keal Harry
+Q
+NE
+WR
+Draft
+Bench
+Jordan ReedJordan Reed
+Jordan Reed
+SF
+TE
+Free Agency
+IR
+
+Empty
+View Team
+
+BangBros Bang
+(1-1-0)
+SLOT
+PLAYER
+ACQ
+QB
+Deshaun WatsonDeshaun Watson
+Deshaun Watson
+Hou
+QB
+Draft
+RB
+Ezekiel ElliottEzekiel Elliott
+Ezekiel Elliott
+Dal
+RB
+Draft
+RB
+James RobinsonJames Robinson
+James Robinson
+Jax
+RB
+Free Agency
+WR
+Davante AdamsDavante Adams
+Davante Adams
+Q
+GB
+WR
+Draft
+WR
+Tyreek HillTyreek Hill
+Tyreek Hill
+KC
+WR
+Draft
+TE
+Tyler HigbeeTyler Higbee
+Tyler Higbee
+LAR
+TE
+Draft
+FLEX
+DK MetcalfDK Metcalf
+DK Metcalf
+Sea
+WR
+Draft
+D/ST
+49ers D/ST49ers D/ST
+49ers D/ST
+SF
+D/ST
+Draft
+K
+Justin TuckerJustin Tucker
+Justin Tucker
+Bal
+K
+Draft
+Bench
+Raheem MostertRaheem Mostert
+Raheem Mostert
+D
+SF
+RB
+Draft
+Bench
+Matt RyanMatt Ryan
+Matt Ryan
+Atl
+QB
+Draft
+Bench
+John BrownJohn Brown
+John Brown
+Buf
+WR
+Draft
+Bench
+Hayden HurstHayden Hurst
+Hayden Hurst
+Atl
+TE
+Draft
+Bench
+Matt PraterMatt Prater
+Matt Prater
+Det
+K
+Draft
+Bench
+Ravens D/STRavens D/ST
+Ravens D/ST
+Bal
+D/ST
+Draft
+Bench
+Sammy WatkinsSammy Watkins
+Sammy Watkins
+Q
+KC
+WR
+Draft
+IR
+
+Empty
+View Team
+Propose Trade
+
+Konto Baller Brand
+(1-1-0)
+SLOT
+PLAYER
+ACQ
+QB
+Patrick MahomesPatrick Mahomes
+Patrick Mahomes
+KC
+QB
+Draft
+RB
+Miles SandersMiles Sanders
+Miles Sanders
+Phi
+RB
+Draft
+RB
+James ConnerJames Conner
+James Conner
+Pit
+RB
+Draft
+WR
+Kenny GolladayKenny Golladay
+Kenny Golladay
+Q
+Det
+WR
+Draft
+WR
+Allen Robinson IIAllen Robinson II
+Allen Robinson II
+Chi
+WR
+Draft
+TE
+Hunter HenryHunter Henry
+Hunter Henry
+Q
+LAC
+TE
+Draft
+FLEX
+Devin SingletaryDevin Singletary
+Devin Singletary
+Buf
+RB
+Draft
+D/ST
+Buccaneers D/STBuccaneers D/ST
+Buccaneers D/ST
+TB
+D/ST
+Draft
+K
+Chris BoswellChris Boswell
+Chris Boswell
+Pit
+K
+Draft
+Bench
+Tom BradyTom Brady
+Tom Brady
+TB
+QB
+Draft
+Bench
+David MontgomeryDavid Montgomery
+David Montgomery
+Chi
+RB
+Draft
+Bench
+Diontae JohnsonDiontae Johnson
+Diontae Johnson
+Q
+Pit
+WR
+Draft
+Bench
+Ronald Jones IIRonald Jones II
+Ronald Jones II
+TB
+RB
+Draft
+Bench
+Preston WilliamsPreston Williams
+Preston Williams
+Mia
+WR
+Draft
+Bench
+Breshad PerrimanBreshad Perriman
+Breshad Perriman
+D
+NYJ
+WR
+Draft
+Bench
+Mike WilliamsMike Williams
+Mike Williams
+LAC
+WR
+Draft
+IR
+
+Empty
+View Team
+Propose Trade
+IrvinYi WillLose
+(0-2-0)
+SLOT
+PLAYER
+ACQ
+QB
+Gardner Minshew IIGardner Minshew II
+Gardner Minshew II
+Jax
+QB
+Free Agency
+RB
+Aaron JonesAaron Jones
+Aaron Jones
+GB
+RB
+Draft
+RB
+Todd Gurley IITodd Gurley II
+Todd Gurley II
+Atl
+RB
+Draft
+WR
+JuJu Smith-SchusterJuJu Smith-Schuster
+JuJu Smith-Schuster
+Q
+Pit
+WR
+Draft
+WR
+T.Y. HiltonT.Y. Hilton
+T.Y. Hilton
+Ind
+WR
+Draft
+TE
+Travis KelceTravis Kelce
+Travis Kelce
+KC
+TE
+Draft
+FLEX
+Noah FantNoah Fant
+Noah Fant
+Den
+TE
+Draft
+D/ST
+Steelers D/STSteelers D/ST
+Steelers D/ST
+Pit
+D/ST
+Draft
+K
+Younghoe KooYounghoe Koo
+Younghoe Koo
+Atl
+K
+Draft
+Bench
+Cam AkersCam Akers
+Cam Akers
+Q
+LAR
+RB
+Draft
+Bench
+Drew BreesDrew Brees
+Drew Brees
+NO
+QB
+Draft
+Bench
+Brandin CooksBrandin Cooks
+Brandin Cooks
+Q
+Hou
+WR
+Draft
+Bench
+Chris ThompsonChris Thompson
+Chris Thompson
+Jax
+RB
+Draft
+Bench
+Golden TateGolden Tate
+Golden Tate
+NYG
+WR
+Draft
+Bench
+Daniel JonesDaniel Jones
+Daniel Jones
+NYG
+QB
+Draft
+Bench
+Seahawks D/STSeahawks D/ST
+Seahawks D/ST
+Sea
+D/ST
+Draft
+IR
+Sterling ShepardSterling Shepard
+Sterling Shepard
+IR
+NYG
+WR
+Draft
+View Team
+Propose Trade
+
+Team Hla
+(0-2-0)
+SLOT
+PLAYER
+ACQ
+QB
+Cam NewtonCam Newton
+Cam Newton
+NE
+QB
+Draft
+RB
+Derrick HenryDerrick Henry
+Derrick Henry
+Ten
+RB
+Draft
+RB
+Jonathan TaylorJonathan Taylor
+Jonathan Taylor
+Ind
+RB
+Draft
+WR
+Chris GodwinChris Godwin
+Chris Godwin
+TB
+WR
+Draft
+WR
+Mike EvansMike Evans
+Mike Evans
+TB
+WR
+Draft
+TE
+Mark AndrewsMark Andrews
+Mark Andrews
+Bal
+TE
+Draft
+FLEX
+Odell Beckham Jr.Odell Beckham Jr.
+Odell Beckham Jr.
+Cle
+WR
+Draft
+D/ST
+Bears D/STBears D/ST
+Bears D/ST
+Chi
+D/ST
+Draft
+K
+Robbie GouldRobbie Gould
+Robbie Gould
+SF
+K
+Draft
+Bench
+D'Andre SwiftD'Andre Swift
+D'Andre Swift
+Det
+RB
+Draft
+Bench
+DeVante ParkerDeVante Parker
+DeVante Parker
+Mia
+WR
+Draft
+Bench
+Deebo SamuelDeebo Samuel
+Deebo Samuel
+IR
+SF
+WR
+Draft
+Bench
+Leonard FournetteLeonard Fournette
+Leonard Fournette
+TB
+RB
+Draft
+Bench
+Matt BreidaMatt Breida
+Matt Breida
+Mia
+RB
+Draft
+Bench
+Robby AndersonRobby Anderson
+Robby Anderson
+Car
+WR
+Draft
+Bench
+Alexander MattisonAlexander Mattison
+Alexander Mattison
+Min
+RB
+Draft
+IR
+
+Empty
+View Team
+Propose Trade
+
+The Mixon Administration
+(0-2-0)
+SLOT
+PLAYER
+ACQ
+QB
+Aaron RodgersAaron Rodgers
+Aaron Rodgers
+GB
+QB
+Draft
+RB
+Joe MixonJoe Mixon
+Joe Mixon
+Cin
+RB
+Draft
+RB
+Chris CarsonChris Carson
+Chris Carson
+Sea
+RB
+Draft
+WR
+Calvin RidleyCalvin Ridley
+Calvin Ridley
+Atl
+WR
+Draft
+WR
+Robert WoodsRobert Woods
+Robert Woods
+LAR
+WR
+Draft
+TE
+Jonnu SmithJonnu Smith
+Jonnu Smith
+Q
+Ten
+TE
+Free Agency
+FLEX
+Terry McLaurinTerry McLaurin
+Terry McLaurin
+Wsh
+WR
+Draft
+D/ST
+Colts D/STColts D/ST
+Colts D/ST
+Ind
+D/ST
+Free Agency
+K
+Jason MyersJason Myers
+Jason Myers
+Sea
+K
+Free Agency
+Bench
+Michael ThomasMichael Thomas
+Michael Thomas
+Q
+NO
+WR
+Draft
+Bench
+Tarik CohenTarik Cohen
+Tarik Cohen
+Chi
+RB
+Draft
+Bench
+J.K. DobbinsJ.K. Dobbins
+J.K. Dobbins
+Bal
+RB
+Draft
+Bench
+Rob GronkowskiRob Gronkowski
+Rob Gronkowski
+TB
+TE
+Draft
+Bench
+Matthew StaffordMatthew Stafford
+Matthew Stafford
+Det
+QB
+Draft
+Bench
+Latavius MurrayLatavius Murray
+Latavius Murray
+NO
+RB
+Draft
+Bench
+Malcolm BrownMalcolm Brown
+Malcolm Brown
+Q
+LAR
+RB
+Free Agency
+IR
+
+Empty
+View Team
+Propose Trade
+
+5 Egg Breakfast Garrity-Janger
+(0-2-0)
+SLOT
+PLAYER
+ACQ
+QB
+Lamar JacksonLamar Jackson
+Lamar Jackson
+Bal
+QB
+Draft
+RB
+Saquon BarkleySaquon Barkley
+Saquon Barkley
+IR
+NYG
+RB
+Draft
+RB
+Kareem HuntKareem Hunt
+Kareem Hunt
+Cle
+RB
+Draft
+WR
+Julio JonesJulio Jones
+Julio Jones
+Q
+Atl
+WR
+Draft
+WR
+Will Fuller VWill Fuller V
+Will Fuller V
+Hou
+WR
+Draft
+TE
+Darren WallerDarren Waller
+Darren Waller
+Q
+LV
+TE
+Draft
+FLEX
+A.J. GreenA.J. Green
+A.J. Green
+Cin
+WR
+Draft
+D/ST
+Patriots D/STPatriots D/ST
+Patriots D/ST
+NE
+D/ST
+Draft
+K
+Tyler BassTyler Bass
+Tyler Bass
+Buf
+K
+Free Agency
+Bench
+Cooper KuppCooper Kupp
+Cooper Kupp
+LAR
+WR
+Draft
+Bench
+Michael GallupMichael Gallup
+Michael Gallup
+Dal
+WR
+Draft
+Bench
+James WhiteJames White
+James White
+Q
+NE
+RB
+Draft
+Bench
+Emmanuel SandersEmmanuel Sanders
+Emmanuel Sanders
+NO
+WR
+Draft
+Bench
+Austin HooperAustin Hooper
+Austin Hooper
+Cle
+TE
+Draft
+Bench
+Anthony MillerAnthony Miller
+Anthony Miller
+Chi
+WR
+Draft
+Bench
+Adrian PetersonAdrian Peterson
+Adrian Peterson
+Det
+RB
+Free Agency
+IR
+
+Empty
+View Team
+Propose Trade
