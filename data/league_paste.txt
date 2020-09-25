@@ -395,13 +395,6 @@ Dal
 K
 Draft
 Bench
-Courtland SuttonCourtland Sutton
-Courtland Sutton
-IR
-Den
-WR
-Draft
-Bench
 Antonio GibsonAntonio Gibson
 Antonio Gibson
 Wsh
@@ -420,23 +413,29 @@ NYG
 WR
 Draft
 Bench
-DeSean JacksonDeSean Jackson
-DeSean Jackson
-Phi
-WR
-Draft
+Joshua KelleyJoshua Kelley
+Joshua Kelley
+LAC
+RB
+Free Agency
 Bench
-N'Keal HarryN'Keal Harry
-N'Keal Harry
+Duke JohnsonDuke Johnson
+Duke Johnson
 Q
-NE
-WR
-Draft
+Hou
+RB
+Free Agency
 Bench
-Jordan ReedJordan Reed
-Jordan Reed
+Darrell Henderson Jr.Darrell Henderson Jr.
+Darrell Henderson Jr.
+LAR
+RB
+Free Agency
+Bench
+Jerick McKinnonJerick McKinnon
+Jerick McKinnon
 SF
-TE
+RB
 Free Agency
 IR
 

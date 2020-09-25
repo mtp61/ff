@@ -1,5 +1,10 @@
-\alpha is start weight
-x is min value increase for me
-y is min value increase for other team
+\alpha is start weight (2)
+x is min value increase for me (10)
+y is min value increase for other team (0)
+N is the max players each team can trade (1)
 
 for trades to be legal need to improve my total value by (\alpha*start change + bench change) >= x, the other teams total value by (\alpha*start change + bench change) >= y, 
+
+
+should only consider trades where each player trades at most N players
+
