@@ -35,3 +35,4 @@ t.sort(key=lambda e:e[2])
 print('\nMy team:')
 for p, _, v in t:
     print(f"{p} -- {v}")
+
