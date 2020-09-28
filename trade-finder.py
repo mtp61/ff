@@ -87,34 +87,49 @@ for owner in data.keys():
         owner_trades[i] = getPlayerCombos(owner_roster, i)
 
     # loop thru trades
-    for k in range(1, TRADE_SIZE_MAX + 1):
-        for mp, mros in me_trades[k]:
-            for op, oros in owner_trades[k]:
-                mros_new = addPlayers(mros, op)
-                oros_new = addPlayers(oros, mp)
-                
-                msn, mbn = getValue(mros_new)
-                osn, obn = getValue(oros_new)
+    for i in range(1, TRADE_SIZE_MAX + 1):
+        for k in range(1, TRADE_SIZE_MAX + 1):
+            for mp, mros in me_trades[i]:
+                for op, oros in owner_trades[k]:
+                    mros_new = addPlayers(mros, op)
+                    oros_new = addPlayers(oros, mp)
+                    
+                    msn, mbn = getValue(mros_new)
+                    osn, obn = getValue(oros_new)
 
-                mscore_new = getScore(msn, mbn)
-                oscore_new = getScore(osn, obn)
+                    mscore_new = getScore(msn, mbn)
+                    oscore_new = getScore(osn, obn)
 
-                if mscore_new - me_score >= MIN_DELTA_ME and oscore_new - owner_score >= MIN_DELTA_OWNER:
-                    trades.append({
-                        'with': owner,
-                        'my_players': mp,
-                        'owner_players': op,
-                        'my_change': mscore_new - me_score,
-                        'owner_change': oscore_new - owner_score
-                    })
+                    if mscore_new - me_score >= MIN_DELTA_ME and oscore_new - owner_score >= MIN_DELTA_OWNER:
+                        trades.append({
+                            'with': owner,
+                            'my_players': mp,
+                            'owner_players': op,
+                            'my_change': mscore_new - me_score,
+                            'owner_change': oscore_new - owner_score
+                        })
             
 # print trades
 trades.sort(key=lambda e:-e['my_change'])
 for t in trades:
     print(f"+{int(t['my_change'])} with {t['with']} ({int(t['owner_change'])}): ", end='')
     for p, _, v in t['my_players']:
-        print(f"{p} ({int(v)}) ", end='')
-    print('for ', end='')
+        print(f"{p} ({int(v)})", end='')
+        if len(t['my_players']) > 1 and p == t['my_players'][-2][0]:
+            if len(t['my_players']) > 2:
+                print(', and ', end='')
+            else:
+                print(' and ', end='')
+        elif p != t['my_players'][-1][0]:
+            print(', ', end='')
+    print(' for ', end='')
     for p, _, v in t['owner_players']:
-        print(f"{p} ({int(v)}) ", end='')
+        print(f"{p} ({int(v)})", end='')
+        if len(t['owner_players']) > 1 and p == t['owner_players'][-2][0]:
+            if len(t['owner_players']) > 2:
+                print(', and ', end='')
+            else:
+                print(' and ', end='')
+        elif p != t['owner_players'][-1][0]:
+            print(', ', end='')
     print()
