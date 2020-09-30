@@ -1,6 +1,6 @@
 
 Major In Economics
-(2-0-0)
+(3-0-0)
 SLOT
 PLAYER
 ACQ
@@ -19,7 +19,6 @@ Draft
 RB
 Josh JacobsJosh Jacobs
 Josh Jacobs
-Q
 LV
 RB
 Draft
@@ -42,11 +41,11 @@ Det
 TE
 Draft
 FLEX
-Stefon DiggsStefon Diggs
-Stefon Diggs
-Buf
-WR
-Draft
+Mike DavisMike Davis
+Mike Davis
+Car
+RB
+Free Agency
 D/ST
 Vikings D/STVikings D/ST
 Vikings D/ST
@@ -86,6 +85,12 @@ Cin
 WR
 Draft
 Bench
+Stefon DiggsStefon Diggs
+Stefon Diggs
+Buf
+WR
+Draft
+Bench
 Jordan HowardJordan Howard
 Jordan Howard
 Mia
@@ -94,126 +99,10 @@ Draft
 Bench
 Henry Ruggs IIIHenry Ruggs III
 Henry Ruggs III
+D
 LV
 WR
 Draft
-Bench
-Mike DavisMike Davis
-Mike Davis
-Car
-RB
-Free Agency
-IR
-
-Empty
-View Team
-Propose Trade
-
-Narragansett Seabears
-(2-0-0)
-SLOT
-PLAYER
-ACQ
-QB
-Russell WilsonRussell Wilson
-Russell Wilson
-Sea
-QB
-Draft
-RB
-Dalvin CookDalvin Cook
-Dalvin Cook
-Min
-RB
-Draft
-RB
-Nick ChubbNick Chubb
-Nick Chubb
-Cle
-RB
-Draft
-WR
-Adam ThielenAdam Thielen
-Adam Thielen
-Min
-WR
-Draft
-WR
-Julian EdelmanJulian Edelman
-Julian Edelman
-Q
-NE
-WR
-Draft
-TE
-Jared CookJared Cook
-Jared Cook
-NO
-TE
-Draft
-FLEX
-Keenan AllenKeenan Allen
-Keenan Allen
-LAC
-WR
-Draft
-D/ST
-Bills D/STBills D/ST
-Bills D/ST
-Buf
-D/ST
-Draft
-K
-Harrison ButkerHarrison Butker
-Harrison Butker
-KC
-K
-Draft
-Bench
-A.J. BrownA.J. Brown
-A.J. Brown
-Q
-Ten
-WR
-Draft
-Bench
-Mark Ingram IIMark Ingram II
-Mark Ingram II
-Bal
-RB
-Draft
-Bench
-Jamison CrowderJamison Crowder
-Jamison Crowder
-D
-NYJ
-WR
-Draft
-Bench
-Zack MossZack Moss
-Zack Moss
-Q
-Buf
-RB
-Draft
-Bench
-Curtis SamuelCurtis Samuel
-Curtis Samuel
-Car
-WR
-Draft
-Bench
-Chase EdmondsChase Edmonds
-Chase Edmonds
-Ari
-RB
-Draft
-Bench
-Nyheim HinesNyheim Hines
-Nyheim Hines
-Ind
-RB
-Free Agency
 IR
 
 Empty
@@ -221,7 +110,7 @@ View Team
 Propose Trade
 
 Suzie Snoozies
-(2-0-0)
+(3-0-0)
 SLOT
 PLAYER
 ACQ
@@ -262,17 +151,15 @@ Phi
 TE
 Draft
 FLEX
-Jarvis LandryJarvis Landry
-Jarvis Landry
-Cle
+DeSean JacksonDeSean Jackson
+DeSean Jackson
+Q
+Phi
 WR
-Draft
-D/ST
-Browns D/STBrowns D/ST
-Browns D/ST
-Cle
-D/ST
 Free Agency
+D/ST
+
+Empty
 K
 Wil LutzWil Lutz
 Wil Lutz
@@ -280,49 +167,54 @@ NO
 K
 Draft
 Bench
-Carson WentzCarson Wentz
-Carson Wentz
-Phi
-QB
+Jarvis LandryJarvis Landry
+Jarvis Landry
+Cle
+WR
 Draft
 Bench
 Jerry JeudyJerry Jeudy
 Jerry Jeudy
-Q
 Den
-WR
-Draft
-Bench
-Tevin ColemanTevin Coleman
-Tevin Coleman
-D
-SF
-RB
-Draft
-Bench
-Justin JeffersonJustin Jefferson
-Justin Jefferson
-Min
 WR
 Draft
 Bench
 Dallas GoedertDallas Goedert
 Dallas Goedert
+IR
 Phi
 TE
-Free Agency
-Bench
-Parris CampbellParris Campbell
-Parris Campbell
-IR
-Ind
-WR
 Free Agency
 Bench
 Mike GesickiMike Gesicki
 Mike Gesicki
 Mia
 TE
+Free Agency
+Bench
+Allen LazardAllen Lazard
+Allen Lazard
+GB
+WR
+Free Agency
+Bench
+Russell GageRussell Gage
+Russell Gage
+Q
+Atl
+WR
+Free Agency
+Bench
+Rams D/STRams D/ST
+Rams D/ST
+LAR
+D/ST
+Free Agency
+Bench
+Justin JeffersonJustin Jefferson
+Justin Jefferson
+Min
+WR
 Free Agency
 IR
 Christian McCaffreyChristian McCaffrey
@@ -334,123 +226,15 @@ Draft
 View Team
 Propose Trade
 
-We Dem Beez
-(2-0-0)
-SLOT
-PLAYER
-ACQ
-QB
-Kyler MurrayKyler Murray
-Kyler Murray
-Ari
-QB
-Draft
-RB
-Clyde Edwards-HelaireClyde Edwards-Helaire
-Clyde Edwards-Helaire
-KC
-RB
-Draft
-RB
-Kenyan DrakeKenyan Drake
-Kenyan Drake
-Ari
-RB
-Draft
-WR
-Amari CooperAmari Cooper
-Amari Cooper
-Dal
-WR
-Draft
-WR
-Marvin Jones Jr.Marvin Jones Jr.
-Marvin Jones Jr.
-Det
-WR
-Draft
-TE
-George KittleGeorge Kittle
-George Kittle
-Q
-SF
-TE
-Draft
-FLEX
-Melvin Gordon IIIMelvin Gordon III
-Melvin Gordon III
-Den
-RB
-Draft
-D/ST
-Saints D/STSaints D/ST
-Saints D/ST
-NO
-D/ST
-Draft
-K
-Greg ZuerleinGreg Zuerlein
-Greg Zuerlein
-Dal
-K
-Draft
-Bench
-Antonio GibsonAntonio Gibson
-Antonio Gibson
-Wsh
-RB
-Draft
-Bench
-CeeDee LambCeeDee Lamb
-CeeDee Lamb
-Dal
-WR
-Draft
-Bench
-Darius SlaytonDarius Slayton
-Darius Slayton
-NYG
-WR
-Draft
-Bench
-Joshua KelleyJoshua Kelley
-Joshua Kelley
-LAC
-RB
-Free Agency
-Bench
-Duke JohnsonDuke Johnson
-Duke Johnson
-Q
-Hou
-RB
-Free Agency
-Bench
-Darrell Henderson Jr.Darrell Henderson Jr.
-Darrell Henderson Jr.
-LAR
-RB
-Free Agency
-Bench
-Jerick McKinnonJerick McKinnon
-Jerick McKinnon
-SF
-RB
-Free Agency
-IR
-
-Empty
-View Team
-
 BangBros Bang
-(1-1-0)
+(2-1-0)
 SLOT
 PLAYER
 ACQ
 QB
-Deshaun WatsonDeshaun Watson
-Deshaun Watson
-Hou
+Matt RyanMatt Ryan
+Matt Ryan
+Atl
 QB
 Draft
 RB
@@ -503,21 +287,22 @@ Bal
 K
 Draft
 Bench
+Deshaun WatsonDeshaun Watson
+Deshaun Watson
+Hou
+QB
+Draft
+Bench
 Raheem MostertRaheem Mostert
 Raheem Mostert
-D
+Q
 SF
 RB
 Draft
 Bench
-Matt RyanMatt Ryan
-Matt Ryan
-Atl
-QB
-Draft
-Bench
 John BrownJohn Brown
 John Brown
+Q
 Buf
 WR
 Draft
@@ -542,7 +327,6 @@ Draft
 Bench
 Sammy WatkinsSammy Watkins
 Sammy Watkins
-Q
 KC
 WR
 Draft
@@ -552,8 +336,118 @@ Empty
 View Team
 Propose Trade
 
+Narragansett Seabears
+(2-1-0)
+SLOT
+PLAYER
+ACQ
+QB
+Russell WilsonRussell Wilson
+Russell Wilson
+Sea
+QB
+Draft
+RB
+Dalvin CookDalvin Cook
+Dalvin Cook
+Min
+RB
+Draft
+RB
+Nick ChubbNick Chubb
+Nick Chubb
+Cle
+RB
+Draft
+WR
+Adam ThielenAdam Thielen
+Adam Thielen
+Min
+WR
+Draft
+WR
+Corey DavisCorey Davis
+Corey Davis
+Ten
+WR
+Free Agency
+TE
+Jared CookJared Cook
+Jared Cook
+Q
+NO
+TE
+Draft
+FLEX
+Keenan AllenKeenan Allen
+Keenan Allen
+LAC
+WR
+Draft
+D/ST
+Bills D/STBills D/ST
+Bills D/ST
+Buf
+D/ST
+Draft
+K
+Harrison ButkerHarrison Butker
+Harrison Butker
+KC
+K
+Draft
+Bench
+A.J. BrownA.J. Brown
+A.J. Brown
+Q
+Ten
+WR
+Draft
+Bench
+Julian EdelmanJulian Edelman
+Julian Edelman
+NE
+WR
+Draft
+Bench
+Mark Ingram IIMark Ingram II
+Mark Ingram II
+Bal
+RB
+Draft
+Bench
+Jamison CrowderJamison Crowder
+Jamison Crowder
+Q
+NYJ
+WR
+Draft
+Bench
+Curtis SamuelCurtis Samuel
+Curtis Samuel
+Car
+WR
+Draft
+Bench
+Chase EdmondsChase Edmonds
+Chase Edmonds
+Ari
+RB
+Draft
+Bench
+Nyheim HinesNyheim Hines
+Nyheim Hines
+Ind
+RB
+Free Agency
+IR
+
+Empty
+View Team
+Propose Trade
+
 Konto Baller Brand
-(1-1-0)
+(2-1-0)
 SLOT
 PLAYER
 ACQ
@@ -578,7 +472,6 @@ Draft
 WR
 Kenny GolladayKenny Golladay
 Kenny Golladay
-Q
 Det
 WR
 Draft
@@ -591,7 +484,6 @@ Draft
 TE
 Hunter HenryHunter Henry
 Hunter Henry
-Q
 LAC
 TE
 Draft
@@ -647,13 +539,14 @@ Draft
 Bench
 Breshad PerrimanBreshad Perriman
 Breshad Perriman
-D
+O
 NYJ
 WR
 Draft
 Bench
 Mike WilliamsMike Williams
 Mike Williams
+Q
 LAC
 WR
 Draft
@@ -662,122 +555,118 @@ IR
 Empty
 View Team
 Propose Trade
-IrvinYi WillLose
-(0-2-0)
+
+We Dem Beez
+(2-1-0)
 SLOT
 PLAYER
 ACQ
 QB
-Gardner Minshew IIGardner Minshew II
-Gardner Minshew II
-Jax
+Kyler MurrayKyler Murray
+Kyler Murray
+Ari
 QB
-Free Agency
+Draft
 RB
-Aaron JonesAaron Jones
-Aaron Jones
-GB
+Clyde Edwards-HelaireClyde Edwards-Helaire
+Clyde Edwards-Helaire
+KC
 RB
 Draft
 RB
-Todd Gurley IITodd Gurley II
-Todd Gurley II
-Atl
+Kenyan DrakeKenyan Drake
+Kenyan Drake
+Ari
 RB
 Draft
 WR
-JuJu Smith-SchusterJuJu Smith-Schuster
-JuJu Smith-Schuster
-Q
-Pit
+Amari CooperAmari Cooper
+Amari Cooper
+Dal
 WR
 Draft
 WR
-T.Y. HiltonT.Y. Hilton
-T.Y. Hilton
-Ind
+Darius SlaytonDarius Slayton
+Darius Slayton
+NYG
 WR
 Draft
 TE
-Travis KelceTravis Kelce
-Travis Kelce
-KC
+George KittleGeorge Kittle
+George Kittle
+Q
+SF
 TE
 Draft
 FLEX
-Noah FantNoah Fant
-Noah Fant
-Den
-TE
+Marvin Jones Jr.Marvin Jones Jr.
+Marvin Jones Jr.
+Det
+WR
 Draft
 D/ST
-Steelers D/STSteelers D/ST
-Steelers D/ST
-Pit
+Saints D/STSaints D/ST
+Saints D/ST
+NO
 D/ST
 Draft
 K
-Younghoe KooYounghoe Koo
-Younghoe Koo
-Atl
+Greg ZuerleinGreg Zuerlein
+Greg Zuerlein
+Dal
 K
 Draft
 Bench
-Cam AkersCam Akers
-Cam Akers
-Q
+Melvin Gordon IIIMelvin Gordon III
+Melvin Gordon III
+Den
+RB
+Draft
+Bench
+Antonio GibsonAntonio Gibson
+Antonio Gibson
+Wsh
+RB
+Draft
+Bench
+CeeDee LambCeeDee Lamb
+CeeDee Lamb
+Dal
+WR
+Draft
+Bench
+Joshua KelleyJoshua Kelley
+Joshua Kelley
+LAC
+RB
+Free Agency
+Bench
+Darrell Henderson Jr.Darrell Henderson Jr.
+Darrell Henderson Jr.
 LAR
 RB
-Draft
+Free Agency
 Bench
-Drew BreesDrew Brees
-Drew Brees
-NO
-QB
-Draft
+Jerick McKinnonJerick McKinnon
+Jerick McKinnon
+Q
+SF
+RB
+Free Agency
 Bench
-Brandin CooksBrandin Cooks
-Brandin Cooks
+Duke JohnsonDuke Johnson
+Duke Johnson
 Q
 Hou
-WR
-Draft
-Bench
-Chris ThompsonChris Thompson
-Chris Thompson
-Jax
 RB
-Draft
-Bench
-Golden TateGolden Tate
-Golden Tate
-NYG
-WR
-Draft
-Bench
-Daniel JonesDaniel Jones
-Daniel Jones
-NYG
-QB
-Draft
-Bench
-Seahawks D/STSeahawks D/ST
-Seahawks D/ST
-Sea
-D/ST
-Draft
+Free Agency
 IR
-Sterling ShepardSterling Shepard
-Sterling Shepard
-IR
-NYG
-WR
-Draft
+
+Empty
 View Team
-Propose Trade
 
 Team Hla
-(0-2-0)
+(1-2-0)
 SLOT
 PLAYER
 ACQ
@@ -802,6 +691,7 @@ Draft
 WR
 Chris GodwinChris Godwin
 Chris Godwin
+D
 TB
 WR
 Draft
@@ -885,7 +775,7 @@ View Team
 Propose Trade
 
 The Mixon Administration
-(0-2-0)
+(0-3-0)
 SLOT
 PLAYER
 ACQ
@@ -904,6 +794,7 @@ Draft
 RB
 Chris CarsonChris Carson
 Chris Carson
+Q
 Sea
 RB
 Draft
@@ -922,7 +813,6 @@ Draft
 TE
 Jonnu SmithJonnu Smith
 Jonnu Smith
-Q
 Ten
 TE
 Free Agency
@@ -952,12 +842,6 @@ NO
 WR
 Draft
 Bench
-Tarik CohenTarik Cohen
-Tarik Cohen
-Chi
-RB
-Draft
-Bench
 J.K. DobbinsJ.K. Dobbins
 J.K. Dobbins
 Bal
@@ -984,8 +868,13 @@ Draft
 Bench
 Malcolm BrownMalcolm Brown
 Malcolm Brown
-Q
 LAR
+RB
+Free Agency
+Bench
+Myles GaskinMyles Gaskin
+Myles Gaskin
+Mia
 RB
 Free Agency
 IR
@@ -993,9 +882,121 @@ IR
 Empty
 View Team
 Propose Trade
+IrvinYi WillLose
+(0-3-0)
+SLOT
+PLAYER
+ACQ
+QB
+Drew BreesDrew Brees
+Drew Brees
+NO
+QB
+Draft
+RB
+Aaron JonesAaron Jones
+Aaron Jones
+GB
+RB
+Draft
+RB
+Todd Gurley IITodd Gurley II
+Todd Gurley II
+Atl
+RB
+Draft
+WR
+Brandin CooksBrandin Cooks
+Brandin Cooks
+Hou
+WR
+Draft
+WR
+Hunter RenfrowHunter Renfrow
+Hunter Renfrow
+LV
+WR
+Free Agency
+TE
+Travis KelceTravis Kelce
+Travis Kelce
+KC
+TE
+Draft
+FLEX
+Noah FantNoah Fant
+Noah Fant
+Den
+TE
+Draft
+D/ST
+Seahawks D/STSeahawks D/ST
+Seahawks D/ST
+Sea
+D/ST
+Draft
+K
+Younghoe KooYounghoe Koo
+Younghoe Koo
+D
+Atl
+K
+Draft
+Bench
+JuJu Smith-SchusterJuJu Smith-Schuster
+JuJu Smith-Schuster
+Pit
+WR
+Draft
+Bench
+Cam AkersCam Akers
+Cam Akers
+Q
+LAR
+RB
+Draft
+Bench
+T.Y. HiltonT.Y. Hilton
+T.Y. Hilton
+Ind
+WR
+Draft
+Bench
+Chris ThompsonChris Thompson
+Chris Thompson
+Jax
+RB
+Draft
+Bench
+Golden TateGolden Tate
+Golden Tate
+NYG
+WR
+Draft
+Bench
+Steelers D/STSteelers D/ST
+Steelers D/ST
+Pit
+D/ST
+Draft
+Bench
+Daniel JonesDaniel Jones
+Daniel Jones
+NYG
+QB
+Draft
+IR
+Sterling ShepardSterling Shepard
+Sterling Shepard
+IR
+NYG
+WR
+Draft
+View Team
+Propose Trade
 
 5 Egg Breakfast Garrity-Janger
-(0-2-0)
+(0-3-0)
 SLOT
 PLAYER
 ACQ
@@ -1006,23 +1007,22 @@ Bal
 QB
 Draft
 RB
-Saquon BarkleySaquon Barkley
-Saquon Barkley
-IR
-NYG
-RB
-Draft
-RB
 Kareem HuntKareem Hunt
 Kareem Hunt
+Q
 Cle
 RB
 Draft
+RB
+Dion LewisDion Lewis
+Dion Lewis
+NYG
+RB
+Free Agency
 WR
-Julio JonesJulio Jones
-Julio Jones
-Q
-Atl
+Cooper KuppCooper Kupp
+Cooper Kupp
+LAR
 WR
 Draft
 WR
@@ -1034,7 +1034,6 @@ Draft
 TE
 Darren WallerDarren Waller
 Darren Waller
-Q
 LV
 TE
 Draft
@@ -1057,9 +1056,10 @@ Buf
 K
 Free Agency
 Bench
-Cooper KuppCooper Kupp
-Cooper Kupp
-LAR
+Julio JonesJulio Jones
+Julio Jones
+Q
+Atl
 WR
 Draft
 Bench
@@ -1067,13 +1067,6 @@ Michael GallupMichael Gallup
 Michael Gallup
 Dal
 WR
-Draft
-Bench
-James WhiteJames White
-James White
-Q
-NE
-RB
 Draft
 Bench
 Emmanuel SandersEmmanuel Sanders
@@ -1099,8 +1092,18 @@ Adrian Peterson
 Det
 RB
 Free Agency
+Bench
+Rex BurkheadRex Burkhead
+Rex Burkhead
+NE
+RB
+Free Agency
 IR
-
-Empty
+Saquon BarkleySaquon Barkley
+Saquon Barkley
+IR
+NYG
+RB
+Draft
 View Team
 Propose Trade

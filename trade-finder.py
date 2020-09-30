@@ -9,6 +9,8 @@ MIN_DELTA_OWNER = -5
 info = getInfo()
 data = getData()
 
+FILTER_TEAM = "Narragansett Seabears"#"The Mixon Administration"
+
 # need to get each teams starting and bench value
 team_info = []
 team_rosters = {}
@@ -75,6 +77,9 @@ for i in range(1, TRADE_SIZE_MAX + 1):
 # find possible trades with each owner (other than me)
 trades = []
 for owner in data.keys():
+    if FILTER_TEAM != "" and owner != FILTER_TEAM:
+        continue
+    
     if owner == info['me']:
         continue
     
